@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.alienskin.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ModelRenderMixin",
+    "PlayerEntityModelMixin",
+    "PlayerEntityRenderStateMixin",
+    "PlayerEntityRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
